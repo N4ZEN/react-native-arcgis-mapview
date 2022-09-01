@@ -3,7 +3,7 @@ import {View, Text, StyleSheet, SafeAreaView} from 'react-native';
 import ArcGISMapView from 'react-native-arcgis-mapview';
 
 const basemap =
-  'https://wsmaldives.maps.arcgis.com/home/item.html?id=116bb92ab58f46098faca9cf9996c14f';
+  'mapurl';
 
 const App = () => {
   return (
