@@ -47,7 +47,6 @@ Here's a app template for using arcgis mapview in react native using https://git
 * A package manager such as [npm](https://nodejs.org/en/download/)
 
 
-
 ### Installing
 
 1. Clone the repo
@@ -64,6 +63,7 @@ run 'nom start' in the project's root directory
    ```sh
    npm start
    ```
+Note: You must input the URL of the arcgis basemap you want to view. 
 
 <!-- LICENSE -->
 ## License
